@@ -10,7 +10,7 @@ Minimalist software developer focused on building lightweight, privacy-first too
 A lightweight, serverless, and privacy-first AI web client and sandbox running directly in your browser. Features a built-in code execution environment, a full-fledged AI IDE, and a parallel model benchmarking tool. Connects directly to Groq, Gemini, OpenAI, OpenRouter, DeepSeek, Qwen, GLM, Claude, and local backends (Ollama / Llama.cpp) with zero middlemen.
 
 * **[Traliran AI Hub Driftwm](https://github.com/Traliran/traliran-ai-hub-driftwm)** — A specialized edition redesigned in the aesthetic and workflow of the `driftwm` tiling window manager, featuring an infinite desktop canvas.
-* **Traliran AI Hub CLI** — *(In active development, coming soon)* A terminal-native interface for the AI Hub.
+* **[Traliran AI Hub CLI](https://github.com/Traliran/traliran-ai-hub-cli)** — A terminal-native interface for the AI Hub.
 
 ### [du-rank](https://github.com/Traliran/du-rank)
 A tiny, single-file POSIX C disk usage analyzer that visually ranks directories and files by size directly in your terminal.
@@ -23,6 +23,14 @@ A tiny, single-file POSIX C disk usage analyzer that visually ranks directories 
 * **Environment:** Arch Linux, Driftwm (Wayland), Terminal-first workflow.
 * **Approach:** No bloated frameworks, low memory footprint, high performance, and Unix-way philosophy.
 
+---
+
+## NEWS:
+
+* **[Aug 2026]** 🎉 **Traliran AI Hub CLI** is officially live!  
+  Bored of heavy Electron-based AI tools? I built a raw **C11 TUI client** with zero middleman servers. Connects directly to Groq, Gemini, DeepSeek, Ollama, and more.
+  * 📦 Check out the **[v1.0.0 Release](https://github.com/Traliran/traliran-ai-hub-cli/releases)** (x86_64 binaries & source available).
+ 
 ---
 
 ## 📬 Connect
