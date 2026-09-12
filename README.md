@@ -22,14 +22,6 @@ A tiny, single-file POSIX C disk usage analyzer that visually ranks directories 
 * **Core Stack:** C (POSIX), JavaScript / HTML / CSS (Vanilla & Minimalist), Shell.
 * **Environment:** Arch Linux, Driftwm (Wayland), Terminal-first workflow.
 * **Approach:** No bloated frameworks, low memory footprint, high performance, and Unix-way philosophy.
-
----
-
-## NEWS:
-
-* **[Aug 2026]** 🎉 **Traliran AI Hub CLI** is officially live!  
-  Bored of heavy Electron-based AI tools? I built a raw **C11 TUI client** with zero middleman servers. Connects directly to Groq, Gemini, DeepSeek, Ollama, and more.
-  * 📦 Check out the **[v1.0.0 Release](https://github.com/Traliran/traliran-ai-hub-cli/releases)** (x86_64 binaries & source available).
  
 ---
 
