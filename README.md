@@ -2,6 +2,8 @@
 
 Minimalist software developer focused on building lightweight, privacy-first tools, desktop ecosystems, and fast POSIX C utilities.
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-Crypto-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/Traliran/Traliran/blob/main/.github/FUNDING.yml)
+
 ---
 
 ## 🛠️ Featured Projects & Ecosystem
