@@ -30,3 +30,12 @@ A tiny, single-file POSIX C disk usage analyzer that visually ranks directories 
 * **Email:** [sitetake7511@gmail.com](mailto:sitetake7511@gmail.com)
 * **Telegram:** [@Traliran](https://t.me/Traliran)
 * **GitHub:** [@Traliran](https://github.com/Traliran)
+
+---
+
+### ☕ Support
+
+- 💎 **TON:** `UQAQ6hegIZbejKThqa3BYyuo7AX8yuRO2f8yQOP7Ke_QVWe9`
+- 💵 **USDT (TRC20):** `TU8NDNVZJjHtJYLXPz124ZxxszDejjZcp3`
+- 🟣 **Solana (SOL):** `EAcmVHj1HSnSvtVCdFirBnA6wh7BiETmssN1yPjUnTvg`
+- 🟡 **BNB Chain** `0x56731151d6Ff21777f215499A46fC43843590D5b`
