@@ -27,6 +27,12 @@ A tiny, single-file POSIX C disk usage analyzer that visually ranks directories 
  
 ---
 
+## NEWS!
+### **09.2026:** 
+> New GUI in Traliran AI Hub, [more here...](https://github.com/Traliran/traliran-ai-hub/releases/tag/2.0.0)
+
+---
+
 ## 📬 Connect
 
 * **Email:** [sitetake7511@gmail.com](mailto:sitetake7511@gmail.com)
