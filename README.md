@@ -28,6 +28,9 @@ A tiny, single-file POSIX C disk usage analyzer that visually ranks directories 
 ---
 
 ## NEWS!
+### **09.2026**
+> du-rank has been updated to version 1.2.0 - it's now even smarter [more here ...](https://github.com/Traliran/du-rank/releases/tag/1.2.0)
+
 ### **09.2026:** 
 > New GUI in Traliran AI Hub, [more here...](https://github.com/Traliran/traliran-ai-hub/releases/tag/2.0.0)
 
