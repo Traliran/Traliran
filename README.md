@@ -33,6 +33,8 @@ Pure C, GTK 4, libcurl. No JSON libraries, no bloat — KISS.
 
 ## NEWS!
 ### **09.2026**
+> I created a [noteSS](https://github.com/Traliran/notess)
+### **09.2026**
 > du-rank has been updated to version 1.2.0 - it's now even smarter [more here ...](https://github.com/Traliran/du-rank/releases/tag/1.2.0)
 
 ### **09.2026:** 
