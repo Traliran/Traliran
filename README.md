@@ -17,6 +17,10 @@ A lightweight, serverless, and privacy-first AI web client and sandbox running d
 ### [du-rank](https://github.com/Traliran/du-rank)
 A tiny, single-file POSIX C disk usage analyzer that visually ranks directories and files by size directly in your terminal.
 
+### [noteSS](https://github.com/Traliran/notess)
+Ultra-light desktop app for fast text-note capture to [Memos](https://www.usememos.com/) API v1.
+Pure C, GTK 4, libcurl. No JSON libraries, no bloat — KISS.
+
 ---
 
 ## 💻 Tech & Philosophy
