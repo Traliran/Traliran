@@ -6,6 +6,8 @@ Minimalist software developer focused on building lightweight, privacy-first too
 
 [![Interactive Card](https://img.shields.io/badge/Interactive_Card-Traliran-3584e4?style=for-the-badge)](https://traliran.github.io/)
 
+[![Matrix Room](https://img.shields.io/badge/Matrix_Room-%23traliran--dev%3Amatrix.org-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/%23traliran-dev:matrix.org)
+
 ---
 
 ## 🛠️ Featured Projects & Ecosystem
