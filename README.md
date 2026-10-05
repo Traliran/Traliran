@@ -36,6 +36,10 @@ Pure C, GTK 4, libcurl. No JSON libraries, no bloat — KISS.
 ---
 
 ## NEWS!
+
+## **02.10.2026**
+> T AI H — IDE update: full backward compatibility with Git added, "agentic-only" mode, and more; details [here](https://github.com/Traliran/traliran-ai-hub/releases/tag/3.0.0).
+
 ## **28.09.2026**
 > UPDATE noteSS `Added note caching`
 
