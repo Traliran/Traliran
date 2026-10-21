@@ -30,7 +30,7 @@ Pure C, GTK 4, libcurl. No JSON libraries, no bloat — KISS.
 ## 💻 Tech & Philosophy
 
 * **Core Stack:** C (POSIX), JavaScript / HTML / CSS (Vanilla & Minimalist), Shell.
-* **Environment:** Arch Linux, Driftwm (Wayland), Terminal-first workflow.
+* **Environment:** Fedora, GNOME, Terminal-first workflow.
 * **Approach:** No bloated frameworks, low memory footprint, high performance, and Unix-way philosophy.
  
 ---
