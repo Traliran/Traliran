@@ -65,7 +65,7 @@ Pure C, GTK 4, libcurl. No JSON libraries, no bloat — KISS.
 
 ## 📬 Connect
 
-* **Email:** [sitetake7511@gmail.com](mailto:sitetake7511@gmail.com)
+* **Email:** [cwcom@proton.me](mailto:cwcom@proton.me)
 * **Telegram:** [@Traliran](https://t.me/Traliran)
 * **GitHub:** [@Traliran](https://github.com/Traliran)
 
