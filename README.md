@@ -48,27 +48,6 @@ Pure C, GTK 4, libcurl. No JSON libraries, no bloat — KISS.
 ## **20.10.2026**
 > Notes in Traliran AI Hub can now be synchronized with a directory on the device; details [here](https://github.com/Traliran/traliran-ai-hub/releases/tag/3.2.0)
 
-## **18.10.2026**
-> The code in Traliran AI Hub has been refactored; details [here](https://github.com/Traliran/traliran-ai-hub/releases/tag/3.1.0)
-
-## **17.10.2026**
-> The CLI version of the IDE in Traliran AI Hub has caught up with the web version (test ver); details [here](https://github.com/Traliran/traliran-ai-hub-cli/releases/tag/3.0.0-test-1)
-
-## **02.10.2026**
-> T AI H — IDE update: full backward compatibility with Git added, "agentic-only" mode, and more; details [here](https://github.com/Traliran/traliran-ai-hub/releases/tag/3.0.0).
-
-## **28.09.2026**
-> UPDATE noteSS `Added note caching`
-
-### **09.2026**
-> I created a [noteSS](https://github.com/Traliran/notess)
-
-### **09.2026**
-> du-rank has been updated to version 1.2.0 - it's now even smarter [more here ...](https://github.com/Traliran/du-rank/releases/tag/1.2.0)
-
-### **09.2026:** 
-> New GUI in Traliran AI Hub, [more here...](https://github.com/Traliran/traliran-ai-hub/releases/tag/2.0.0)
-
 ---
 
 ## 📬 Connect
